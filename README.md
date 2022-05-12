@@ -1,4 +1,4 @@
-# Dos-Air-Travel-C-
+# Dos-Air-Travel-C++
 Air Travel Booking Application in Dos Developed in C++.
 כדי להתחבר כסוכן:
 פרטי ההתחברות מופיעים בקובץ Agents.txt
